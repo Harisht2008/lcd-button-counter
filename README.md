@@ -35,7 +35,7 @@ mechanical noise from button contacts the same way
 synchronizer circuits handle metastability in hardware.
 
 
-IMGS:
+## IMGS:
 ![IMG_3758](https://github.com/user-attachments/assets/9c2cbacb-723b-4ba1-94b9-9dc98024fef4)
 
 ![IMG_3759](https://github.com/user-attachments/assets/99f1a979-e5f6-43f0-9427-045e7c2cb2cd)
@@ -45,6 +45,8 @@ IMGS:
 ![IMG_3760](https://github.com/user-attachments/assets/4a00db22-9f3f-46e5-9745-81d33625094c)
 
 
+
+## CODE
 
 
 #include <LiquidCrystal.h>
